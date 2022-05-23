@@ -24,6 +24,9 @@ function guess_age() {
 
     console.log("Your age is " + age + "; that's a good time to start programming!");
 }
+function go() {
+    console.log("GO!")
+}
 
 function count() {
     console.log("Now I will prove to you that I can count to any number you want.");
@@ -64,3 +67,4 @@ guess_age();
 count();
 test();
 end();
+go();
